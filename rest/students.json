@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Burcin",
+    "surname": "Ozkan",
+    "id": 8,
+    "course": "Web Development",
+    "midtermScore": "78",
+    "finalScore": "29"
+  },
+  {
+    "name": "burcin",
+    "surname": "ozkan",
+    "id": "2007908",
+    "course": "",
+    "midtermScore": "75",
+    "finalScore": "40"
+  },
+  {
+    "name": "a",
+    "surname": "aq",
+    "id": "444",
+    "course": "",
+    "midtermScore": "44",
+    "finalScore": "33"
+  },
+  {
+    "name": "b",
+    "surname": "a",
+    "id": "d",
+    "course": "",
+    "midtermScore": "45",
+    "finalScore": "44"
+  },
+  {
+    "name": "burcin",
+    "surname": "ozkan",
+    "id": "2007908",
+    "course": "",
+    "midtermScore": "75",
+    "finalScore": "40"
+  }
+]

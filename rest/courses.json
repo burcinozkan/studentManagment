@@ -1,0 +1,33 @@
+[
+  {
+    "id": 2,
+    "name": "web",
+    "gradingScaleType": "Yüzdelik",
+    "gradingScale": "0-100",
+    "credit": 7
+  },
+  {
+    "name": "mobile",
+    "gradingScale": {
+      "A": 90,
+      "B": 80,
+      "C": 70,
+      "D": 60,
+      "F": 50
+    },
+    "gradingScaleType": "10",
+    "credit": 8
+  },
+  {
+    "name": "data",
+    "gradingScale": {
+      "A": 90,
+      "B": 80,
+      "C": 70,
+      "D": 60,
+      "F": 50
+    },
+    "gradingScaleType": "10",
+    "credit": 3
+  }
+]
